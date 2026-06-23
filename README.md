@@ -34,3 +34,6 @@ By leveraging In-band Network Telemetry and a closed-loop Model Predictive Contr
    ```bash
    git clone [https://github.com/aliutkupekel/Green-DetNet-SDN.git](https://github.com/aliutkupekel/Green-DetNet-SDN.git)
    cd Green-DetNet-SDN
+
+   Ali Utku Pekel
+   Alperen Atalay
